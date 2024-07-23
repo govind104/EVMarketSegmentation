@@ -1,2 +1,2 @@
-# EVMarketSegmentation
-Repository for market segmentation analysis of the Indian electric vehicle (EV) market. Includes code and datasets for identifying optimal EV types and target demographics to guide a startup. Features data preprocessing, exploratory analysis, clustering, segmentation models, and detailed documentation with visualizations.
+# Electric Vehicle Market Segmentation in India
+Repository for the market segmentation analysis of the Indian electric vehicle (EV) market. Contains all code and datasets used for identifying optimal EV types and target demographics. This analysis aims to guide a startup in developing a successful product and marketing strategy. Includes data preprocessing, exploratory data analysis, clustering, and segmentation models, along with detailed documentation and visualization.
